@@ -1,4 +1,4 @@
-name: IPQ60XX-TEST
+name: IPQ60XX-TEST2
 
 on:
   workflow_dispatch:
